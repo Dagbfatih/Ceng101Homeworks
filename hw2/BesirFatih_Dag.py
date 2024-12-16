@@ -134,11 +134,13 @@ def calculate(n, m, a, b):
 ### Running Tasks
 ###---------------
 
+### Uncomment the lines you want to run:
+
 # run_task1()
 # run_task2()
 # run_task3()
 
-### Or simply run the methods:
+### OR simply run the methods:
 
 # days_to_write("ada")
 # calculate(6, 2, 1, 2)
